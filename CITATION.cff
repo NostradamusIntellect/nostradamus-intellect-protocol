@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this protocol or the record it describes, please cite it as below."
+title: "Nostradamus Intellect — the protocol: sealed, dated, falsifiable forecasts graded in public"
+version: "0.1"
+date-released: "2026-09-28"
+authors:
+  - name: "Nostradamus Intellect"
+    website: "https://nostradamusintellect.com"
+license: CC-BY-4.0
+url: "https://nostradamusintellect.com"
+repository-code: "https://github.com/NostradamusIntellect/nostradamus-intellect-protocol"
+keywords:
+  - forecasting
+  - calibration
+  - brier score
+  - pre-registration
+  - opentimestamps
+  - falsifiability
