@@ -59,7 +59,7 @@ node verify.mjs all         # every seal and the ledger root
 ots verify cal-12.ots       # anchor the hash to Bitcoin (OpenTimestamps client)
 ```
 
-or, with the CLI: `npx -y github:NostradamusIntellect/nostradamus-intellect-mcp verify all`.
+or, with the CLI: `npx -y nostradamus-intellect verify all`.
 
 ## 4 · Resolution
 
