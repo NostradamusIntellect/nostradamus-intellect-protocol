@@ -46,7 +46,7 @@ Nothing can be bought: partnerships, sponsorship, donations and investment never
 criterion.
 
 [nostradamusintellect.com](https://nostradamusintellect.com) · [X @Nostradamusmind](https://x.com/Nostradamusmind) ·
-[En français](https://nostradamusintellect.com/fr)
+[nostradamusintellect@proton.me](mailto:nostradamusintellect@proton.me)
 
 ## Licence
 
